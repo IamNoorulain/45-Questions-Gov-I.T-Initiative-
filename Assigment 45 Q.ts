@@ -3,10 +3,10 @@ let personName1: string = "Eric";
 console.log(`Hello ${personName1}, would you like to learn some Python today?`);
 
 // Name Cases
-let personName: string = "John Doe";
-console.log(personName.toLowerCase());
-console.log(personName.toUpperCase());
-console.log(personName.charAt(0).toUpperCase() + personName.slice(1).toLowerCase());
+let personName2: string = "John Doe";
+console.log(personName2.toLowerCase());
+console.log(personName2.toUpperCase());
+console.log(personName2.charAt(0).toUpperCase() + personName.slice(1).toLowerCase());
 
 // Famous Quote
 let famousQuote: string = "A person who never made a mistake never tried anything new.";
